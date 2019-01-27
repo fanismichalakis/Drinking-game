@@ -1,0 +1,62 @@
+#:kivy 1.0.9
+
+<Ball>:
+    size: 50, 50
+    canvas:
+        Color:
+            rgba : 255, 0, 0, 1
+        Ellipse:
+            pos: self.pos
+            size: self.size
+
+<Ball1>:
+    size: 50, 50
+    canvas:
+        Color:
+            rgba : 255, 0, 0, 1
+        Ellipse:
+            pos: self.pos
+            size: self.size
+
+<Ball2>:
+    size: 50, 50
+    canvas:
+        Color:
+            rgba : 255, 0, 0, 1
+        Ellipse:
+            pos: self.pos
+            size: self.size
+
+
+<PaddlePlayer>:
+    size: 40, 60
+    canvas:
+        Color:
+            rgba : 255, 255, 255, 1
+        Ellipse:
+            pos:self.pos
+            size:self.size
+
+
+<MiniGame>:
+    ball: ball
+    ball1: ball1
+    ball2: ball2
+    player: player
+
+    Ball:
+        id: ball
+        center: (self.parent.width,self.parent.height/2)
+
+    Ball1:
+        id: ball1
+        center: (self.parent.width,self.parent.height/2)
+
+    Ball2:
+        id: ball2
+        center: (self.parent.width,self.parent.height/2)
+
+    PaddlePlayer:
+        id: player
+        x: root.x
+        center_y: root.center_y
