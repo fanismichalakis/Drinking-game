@@ -2,7 +2,7 @@
 "2":{"texte":"Quelle est la couleur du cheval blanc d'Henry IV ?", "reponseA":"Mauve", "reponseB":"Blanc", "reponseC":"Bleu", "reponseD":"Vous pouvez repeter la question ?", "bonne_reponse":"Blanc"},
 "3":{"texte":"Comment ca va ?", "reponseA":"Bien et vous ?", "reponseB":"Pas top", "reponseC":"Coussi, coussa", "reponseD": "C'est bon, j'ai compris, je prends deux gorgees", "bonne_reponse":"C'est bon, j'ai compris, je prends deux gorgees"},
 "4":{"texte":"Combien font 2 + 2 ?", "reponseA":"4", "reponseB":"5", "reponseC":"Tout depend du corps considere, non ?","reponseD":"C'est pas le nombre de fois que j'ai bu depuis le debut ?","bonne_reponse":"4"},
-"5":{"texte":"Qu'est-ce qui est jaune et dangereux ?", "reponseA":"Un poussin tout mignon", "reponseB":"Un gilet jaune affamé", "reponseC":"Un flan infeste de requins", "reponseD":"Euh ...", "bonne_reponse":"Un flan infeste de requins"},
+"5":{"texte":"Qu'est-ce qui est jaune et dangereux ?", "reponseA":"Un poussin tout mignon", "reponseB":"Un gilet jaune affame", "reponseC":"Un flan infeste de requins", "reponseD":"Euh ...", "bonne_reponse":"Un flan infeste de requins"},
 "6":{"texte":"Quelle est la reponse a la grande question sur la vie, l'univers et le reste ?", "reponseA" : "Hum", "reponseB":"42", "reponseC":"Mellon", "reponseD":"J'imagine que c'est la D", "bonne_reponse":"42"},
 "7":{"texte":"Comment est votre blanquette", "reponseA":"Pas trop cuite","reponseB":"Elle est bonne", "reponseC":"Mi-figue, mi-raisin", "reponseD":"bleue", "bonne_reponse":"Elle est bonne"},
-"8":{"texte":"Quel alcool n'est pas présent dans la recette du Long Island Iced Tea ?","reponseA":"Vodka", "reponseB":"Rhum", "reponseC":"Whisky","reponseD":"Tequila","bonne_reponse":"Whisky"}}
+"8":{"texte":"Quel alcool n'est pas present dans la recette du Long Island Iced Tea ?","reponseA":"Vodka", "reponseB":"Rhum", "reponseC":"Whisky","reponseD":"Tequila","bonne_reponse":"Whisky"}}
