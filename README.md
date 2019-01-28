@@ -30,5 +30,4 @@ En espérant que ce jeu vous plaira,
 
 Emmanuel KRIEGER et Fanis MICHALAKIS
 
-PS: Il y a un fichier .kv et la consigne était de ne pas en avoir, nous en avons conscience, sauf que nous n'avons pas réussi à utliser la commande self.canvas.add() pour tous les widgets. Avec plus de temps, cela aurait été très sûrement fai
-sable mais nous avons préféré vous envoyer quelque chose qui marchait.
+PS: Il y a un fichier .kv et la consigne était de ne pas en avoir, nous en avons conscience, sauf que nous n'avons pas réussi à utliser la commande self.canvas.add() pour tous les widgets. Avec plus de temps, cela aurait été très sûrement faisable mais nous avons préféré vous envoyer quelque chose qui marchait.
