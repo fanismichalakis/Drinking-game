@@ -69,9 +69,6 @@ class Quiz(FloatLayout):
             self.add_widget(popup_perdu)
 
 
-###Questions et réponses###
-
-
 ##########                              RELATIF AU MINI JEU                                                     ########
 
 
