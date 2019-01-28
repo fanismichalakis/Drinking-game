@@ -7,12 +7,14 @@ L'ambition était de créer un jeu à boire composé de deux mini-jeux : un quiz
 L'ensemble des fonctionnalités n'a pas pu être réalisé, puisque le temps imparti n'était que de quelques heures d'autonomie. Cependant, nous sommes parvenus à réaliser un prototype fonctionnel.
 
 Ce qui a été fait :
+--
 
 - le quizz fonctionne correctement. Il comporte 8 questions, mais il est simple d'en ajouter de nouvelles. Le joueur clique sur la réponse qu'il pense être la bonne, s'il a juste il est invité à distribuer 2 gorgées, s'il a faux il est invité à en boire 2. Il peut ensuite cliquer sur "Continuer" pour répondre à une nouvelle question.
 
 - le jeu d'adresse consiste à déplacer une boule blanche tout en évitant les boules rouges arrivant depuis la droite selon des angles pseudo-aléatoires. La vitesse des boules rouges augmente avec le temps, le but étant de tenir le plus longtemps possible. Lorsque le joueur percute une boule rouge, une pop-up l'en informe et lui indique le nombre de gorgées qu'il doit boire.
   
 Ce qu'il reste à faire :
+--
 
 - permettre de retourner au menu de sélection du mini-jeu sans avoir à fermer l'application et la rouvrir
 
